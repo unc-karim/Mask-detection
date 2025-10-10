@@ -213,7 +213,7 @@ def parse_args() -> argparse.Namespace:
         default=0,
         help="OpenCV camera index (default: 0).",
     )
-    default_splits = Path(__file__).resolve().parents[2] / "splits"
+    default_splits = Path(__file__).resolve().parent / "data" / "splits"
     parser.add_argument(
         "--splits-dir",
         type=Path,

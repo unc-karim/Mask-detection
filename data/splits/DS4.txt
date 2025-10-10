@@ -1,0 +1,1809 @@
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_442_6989995.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_88_7419386.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (257).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_51_1483581.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (312).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_163_920943.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_53_6721917.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (191).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_310_6434280.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (484).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_373_5023417.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (200).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (58).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (345).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_342_9218365.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_154_6887865.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_126_1372672.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_361_6572867.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (129).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (216).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (353).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (5).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_156_3383390.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_21_7577163.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_483_2212108.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (241).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (19).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (304).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (187).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (538).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (492).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (168).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_108_2370284.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (62).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (390).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_7_2553491.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (543).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (113).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (406).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_91_42470.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_433_5821103.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (282).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (328).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (35).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_323_2382237.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_335_6751050.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_116_3932814.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (144).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_510_7422273.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (514).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (451).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_508_2708043.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_553_5246794.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (23).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (294).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_543_3296984.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (502).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (152).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (447).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (369).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_105_5919228.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (74).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (386).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_46_9247239.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (105).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (410).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (467).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_468_5223248.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (522).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (488).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (172).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_444_5499009.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_85_6253433.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_314_2951903.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_31_177837.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_511_5174414.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_139_5023117.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (430).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (125).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_155_6176335.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (349).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (54).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_497_2259614.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_28_6078013.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (426).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (9).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (133).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_111_9398920.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (42).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_357_2199611.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (471).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_426_4888912.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (164).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (534).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_544_2714248.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (308).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (15).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_54_7828604.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_42_7911745.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_165_3328591.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (373).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (81).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (236).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (518).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (148).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (39).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (324).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (261).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_391_4751961.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_443_705884.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (298).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (332).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_439_6894489.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (277).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (109).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_367_1158474.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (78).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (365).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_359_3259153.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (220).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (97).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_142_8802618.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (79).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (364).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_146_7193368.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (221).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (96).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_83_5982945.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_73_2520791.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (108).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_62_6771007.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_319_9805081.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (299).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (333).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_402_3187527.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (276).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_332_7149160.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_137_6546803.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (38).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (325).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_411_8380684.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (260).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_2_4386757.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (519).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (149).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (372).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_27_9468399.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (80).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (237).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_92_9988078.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_70_8025783.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_506_8793581.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (309).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (14).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_145_3186155.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_321_3912059.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_107_9177082.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (470).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (165).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (535).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_473_2242787.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_496_4187022.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (43).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (427).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (8).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (132).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_395_4978358.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_36_2751241.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_333_4338626.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_106_2332875.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_364_4793321.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (348).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (55).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_527_3618924.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (431).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_387_800579.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_374_923052.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_375_5168705.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_408_8283439.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (124).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_358_8728056.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_526_4229680.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_494_7453708.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (466).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (523).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (489).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (173).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_392_7642397.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (104).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (411).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (368).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (75).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_515_1657915.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (387).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_489_8451456.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (503).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (153).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_67_3307192.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (446).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (22).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (295).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (145).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (515).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (450).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (283).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (329).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (34).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_87_5957094.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (542).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (112).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_532_8080739.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (407).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_4_2991879.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_450_1051127.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (63).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (391).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (186).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (539).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (493).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (169).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (240).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_460_1352845.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (18).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (305).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (4).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_147_5874573.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_143_1349027.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (217).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (352).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (128).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (201).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_120_5595441.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (59).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (344).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_61_2203848.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (190).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_84_8389942.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (485).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (256).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (313).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_516_8429275.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_405_3910598.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (461).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (524).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (174).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_492_751452.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (318).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (436).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (123).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (52).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (420).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_531_8696301.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (135).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_0_24298.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (359).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (44).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_95_1266312.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (477).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (498).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (162).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (532).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_104_8574654.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (13).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (119).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (549).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_315_3377767.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_481_3852876.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (68).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (375).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_52_7824376.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (230).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (87).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_525_1537603.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_388_993249.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (322).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (288).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_44_7338329.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (267).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (158).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (508).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_548_5331599.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (29).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_448_7062054.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_330_6733894.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (334).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (271).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_336_7967836.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_141_7191259.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (363).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_125_7697741.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (91).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (226).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_384_4572025.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (251).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_453_7613638.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (314).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (197).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (482).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (178).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (528).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (206).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (343).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_109_6977830.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_397_501620.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (210).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (48).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (355).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_130_6107426.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (3).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_385_9530279.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (139).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_348_3231637.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (247).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_368_3474275.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_412_5009967.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (302).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (181).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_366_5278740.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (494).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (379).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (64).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_462_5431217.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (396).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (545).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (115).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_129_2548030.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_407_2723140.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (400).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (33).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (284).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_429_4188216.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_382_2493646.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_550_6912450.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (142).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (512).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_458_5060572.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (457).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_100_2272676.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (338).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_441_6475804.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (292).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (25).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_86_860119.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (504).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (154).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_26_5609403.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (441).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (72).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (380).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_349_7306259.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_313_3007715.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_431_2043320.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (103).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_337_3772572.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_9_9788285.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (416).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (102).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_437_3425531.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (417).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (73).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_16_7816773.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (381).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_528_1696344.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (505).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_436_1165481.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_75_1400925.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (155).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (440).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_338_5134093.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (339).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (293).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (24).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (143).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (513).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_413_8065792.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_136_8471844.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (456).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (32).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_32_6364134.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (285).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_389_814985.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_41_169726.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (544).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (114).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (401).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_119_2738952.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (378).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_523_9694192.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (65).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_396_9596785.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (397).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (180).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_435_6004121.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (495).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (246).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_537_1061679.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (303).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_479_8109992.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_158_8885000.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_135_8591281.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_351_4499396.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (2).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (138).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_98_6300739.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_498_2335079.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (211).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (49).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (354).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_514_3718121.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_96_5297522.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (207).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_79_8388802.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (342).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (196).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (483).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (179).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (529).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (250).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_446_2897510.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_470_4502138.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (315).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (362).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (90).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (227).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_161_4037072.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_115_8147824.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (28).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_457_7301059.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (335).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (270).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_482_171388.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (159).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_372_4128065.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (509).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_365_2043192.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (323).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (289).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_509_9819572.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (266).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_472_780188.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_452_2905222.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (69).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (374).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_18_1300910.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (231).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (86).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_345_8131785.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_153_3065209.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (118).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_312_7185908.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (548).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_535_4121503.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_10_6350732.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (12).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (476).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (499).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (163).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_47_4562028.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (533).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_352_6720798.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (358).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (45).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (421).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (134).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_43_9125063.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (53).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (437).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (122).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_417_7513343.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (319).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (460).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_406_4165296.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (525).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (175).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (224).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_465_7107502.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (93).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_424_6628768.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (361).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_326_7342489.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_133_36155.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (418).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_8_9289080.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_356_7187751.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_162_2602822.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (273).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (336).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_29_1738223.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_519_6195751.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (265).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (320).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_37_1045070.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (459).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_71_9435538.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (85).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (398).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (232).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_476_4433612.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (377).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_78_2822970.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_334_5127757.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (11).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_341_2490.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (249).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (160).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (530).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (475).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (46).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_69_2372296.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_148_9956555.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_522_8565463.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (137).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_491_4577620.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (422).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (50).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (208).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (121).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (434).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_140_3040231.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_386_5902100.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_421_1923481.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_324_9273247.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (526).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_414_3241659.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (176).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_486_8875953.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_447_6941946.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (199).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_400_2934194.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (463).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_56_4608358.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (414).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_124_3587468.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (101).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_20_2512877.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (382).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (228).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (70).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_461_9199836.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (443).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_150_4767715.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (506).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (156).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_380_298892.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (27).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (290).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (455).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (140).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (510).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_24_6486426.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_499_7147611.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (269).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_410_8672545.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (286).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_478_171792.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_110_8753625.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (31).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_545_4307942.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (402).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (547).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (117).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (394).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (89).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_23_3701690.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (66).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_488_3802293.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (496).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (183).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (479).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_157_9629070.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (300).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (245).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_536_132393.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (1).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_369_7621832.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_500_8795739.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_471_6601245.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_318_9865991.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_513_4963111.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (357).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_487_8471647.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (212).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_549_7412464.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_451_9523629.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_529_9848072.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_316_1063021.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_504_1538188.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (438).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (341).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (204).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (480).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (195).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_325_3722815.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (316).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (253).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (317).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_102_3771662.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_502_893507.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_438_4932231.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (252).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_371_271786.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (481).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_353_19830.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (194).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_484_9336582.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (340).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_552_6415981.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (205).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_418_9674261.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_65_4932660.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_507_8930623.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_13_2231723.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_347_3441864.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (439).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_434_773491.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (356).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_343_4732222.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_320_8648559.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_33_2469708.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (213).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_432_6405225.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_25_1719762.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (301).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (244).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_520_9290384.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_331_9385852.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (497).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (182).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (478).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_390_5088753.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (395).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (88).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (67).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_66_5617573.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_14_3834030.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (403).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (546).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (116).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (268).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (287).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_401_9898825.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (30).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_97_4859923.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_541_6830858.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (454).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_159_4789224.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_19_121392.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (141).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (511).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_551_7433176.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (26).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (291).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (442).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (507).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (157).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (383).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (229).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_376_8062568.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (71).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (415).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_40_4263792.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (100).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (550).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (527).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (177).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (198).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (462).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (120).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (435).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (51).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (209).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (136).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_11_433798.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_12_6415395.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_381_4558411.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (423).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (47).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_55_4345621.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_22_1262464.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (161).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (531).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (474).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_99_4930797.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_34_8629854.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (10).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (248).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_415_5672168.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_122_4471116.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (84).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (399).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (233).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_423_8241890.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (376).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_354_7146699.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (458).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_94_6820627.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_404_9460324.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (264).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_311_744582.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_440_7096639.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_403_3843679.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (321).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_501_7791749.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_77_6652887.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_74_7004732.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (272).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (337).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_533_3392964.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_1_3679319.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (419).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_495_7893559.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (225).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (92).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_409_2157920.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (360).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_518_9217924.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_327_311019.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (412).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (107).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_422_1919297.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_328_5784366.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_3_4480685.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_339_8106632.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (384).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (99).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_134_1068681.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (76).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_490_5499351.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (445).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (500).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (150).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_377_9931531.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (279).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_6_2717231.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_72_8195250.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (296).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_449_814051.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (21).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (453).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (146).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (516).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_322_5167163.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_128_7846304.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_383_6320078.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (37).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_474_5094684.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (280).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (404).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_93_4029479.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_362_3790813.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_80_119774.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (541).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_503_7428440.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (111).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (238).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (392).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_554_9558971.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (60).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_360_9818624.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (490).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (185).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_530_4841541.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (306).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_144_584818.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_427_5621609.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (243).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (7).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (428).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_475_6372533.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_117_24298.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (351).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (214).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_546_2227098.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_101_8428353.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_127_8518799.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_346_6547035.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_517_3697790.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (347).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_463_9216090.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (202).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (486).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (193).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (469).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_521_7852831.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_57_5695573.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (310).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (255).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (95).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (222).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (388).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (367).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_547_4601176.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_5_60133.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_138_1141160.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_538_2190452.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (275).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_555_4426231.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_394_8346467.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (330).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_398_1038949.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_123_4502870.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_103_4902399.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (449).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_485_3933333.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_430_3007869.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_363_6009012.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (263).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (326).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_152_3549304.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_30_8480331.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_68_9589260.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (234).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_455_6613914.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (83).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (371).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (408).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (17).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_38_2263615.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_467_577794.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (166).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (536).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (189).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_340_2837397.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (473).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (40).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_164_9051820.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (218).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_48_7883921.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (131).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (424).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (56).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (127).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_425_6210153.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (432).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_378_296931.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (259).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_329_606414.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (520).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_39_6811335.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (170).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (465).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_149_6788736.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (521).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_393_3898467.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (171).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (464).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_59_2666642.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (258).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (126).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (433).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (57).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (130).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (425).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_399_4939849.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (41).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (219).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (167).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (537).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (188).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (472).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (16).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_355_4351777.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (409).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (235).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (82).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_344_7851463.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_454_3898630.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (370).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_350_9041323.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_82_4705173.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_81_6186401.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_160_2088905.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_151_3108457.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_524_2606281.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (262).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (327).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_60_9804573.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_534_5585437.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (448).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_113_7822644.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (274).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (331).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (94).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (223).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (389).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (366).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_76_9675292.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_64_5628700.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (311).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_466_3554471.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_420_7022851.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (254).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_63_2024321.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (487).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_542_9247277.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_114_6109417.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_379_9247257.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_512_8749016.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (192).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (468).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (346).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_45_3084589.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_416_4468475.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_58_6476013.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (203).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_493_99014.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_90_7182451.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_505_7087184.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (350).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (215).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_419_336422.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_50_3152293.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (6).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_15_5873818.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (429).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (307).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_35_6063484.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (242).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (491).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (184).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (239).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (393).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_370_244526.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_456_1987942.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (61).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (405).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_112_6935097.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_464_2297540.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (540).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_118_8893367.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (110).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (36).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (281).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_477_1292295.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_428_4112921.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_469_3590679.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (452).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (147).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_480_7081144.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (517).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_317_716496.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_131_9438112.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (278).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_459_2013908.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_540_3031054.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (297).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (20).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (444).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_49_140090.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_121_6732991.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (501).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_17_7123991.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (151).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (385).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (98).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (77).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_132_1389728.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/augmented_539_2308023.png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (413).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/without_mask/testwo (106).png	0
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_277_5841890.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_238_5335174.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_256_6695280.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_358_3353360.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_68_8102393.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_155_9142010.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_59_4441271.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_417_2033542.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (102).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (26).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_65_7553060.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_431_5818358.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_185_2163731.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (71).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_450_5027973.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_64_2160827.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_131_3500223.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_73_4785587.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (67).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (88).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_9_1133546.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (114).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_71_8169084.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_48_5924731.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (30).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_313_2657971.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_204_8921126.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_217_487314.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_113_4539167.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (47).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_266_5208433.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_233_6634665.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_281_1423958.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (10).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_370_6011754.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_4_8840099.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_58_6791987.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (122).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_400_9653744.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (51).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_241_9119863.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_249_1079674.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_183_3038045.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_279_4930020.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_228_5179843.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_356_760656.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_83_6741710.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_36_4476644.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_261_77587.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_208_5342533.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (92).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_17_2865604.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_166_7111823.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_205_8380625.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_350_4833463.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_360_7483926.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_154_1674216.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_193_835691.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_376_2985977.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (84).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (7).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_265_7703159.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (118).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_70_1365943.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_366_40331.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (119).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_363_8069118.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_251_753993.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_290_4778165.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_161_6978272.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_60_268914.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_353_714667.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (85).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (6).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (93).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_315_1602048.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_174_2393057.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_253_7548171.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_114_9654299.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_6_688966.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (50).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_444_6189618.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (123).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_110_8329489.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (11).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_122_2377587.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_362_8840006.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_347_1209702.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (46).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (31).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_111_5810338.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_408_4335886.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_345_7949711.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_179_6570594.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (115).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_252_3185691.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (66).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_439_1460135.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_389_7637288.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (89).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (70).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_27_3237850.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_344_1617194.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_216_542975.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (27).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_159_4968124.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (103).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_250_9996567.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_56_5499191.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_340_4362809.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_425_4943829.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_168_6847861.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_20_7955443.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_128_3998182.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_293_3205768.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_314_4219617.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_98_7637361.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (41).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_11_4362391.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_443_4257444.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_374_3827477.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_102_6566749.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (16).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_137_4836036.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (132).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_62_1302182.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_127_481378.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (124).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_278_2190386.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (57).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_74_1588250.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_72_3145221.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_337_524982.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_123_1963323.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_129_6121008.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (108).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_355_3266474.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (94).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_75_8453722.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_21_8836231.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_23_5263239.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (82).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_230_2759622.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (1).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_95_6132601.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_320_209100.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_84_6816605.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_413_4718551.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_55_2436461.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_336_8381102.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_125_7570604.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_239_9483959.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_273_7677387.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_393_5428802.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_32_9186762.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_140_9547869.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (128).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_147_701827.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_94_6530528.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_326_9849904.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_244_7143651.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_115_3820542.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (104).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_426_8723344.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_33_9613820.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (20).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_424_4562691.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_403_2590832.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_402_5705509.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_226_8888729.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_30_8078831.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (77).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_87_9015967.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (98).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (61).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_445_1792219.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_97_7685892.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_101_9932401.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_194_5634265.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (112).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (36).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (37).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (113).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_237_2346071.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_372_2276748.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (60).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_85_4691601.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_135_1230295.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_446_5989561.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_195_645918.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (76).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_255_3374079.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (99).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (21).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (105).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_52_1893090.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_257_8738738.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_49_6272417.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_433_2382912.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_92_9151307.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_2_8151314.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_160_6039689.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_411_4440570.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (129).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_192_2927987.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_397_8036482.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_236_7580423.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_120_7003783.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_136_6981517.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_316_5652953.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_240_1963632.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_78_5008384.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (83).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_377_589663.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_16_1277215.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_412_4760457.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_437_7254088.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (95).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_418_5877496.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (109).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_93_5784584.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_383_2888725.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_143_2939350.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_242_2741706.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_67_3977158.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_214_9289097.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_291_542699.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (56).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_319_7856276.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (125).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_346_6661186.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_296_9191775.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_419_8172277.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_359_4435774.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (17).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_289_7709108.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_153_7885667.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_435_1678177.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (40).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_198_2179238.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_343_7941977.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (38).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_373_184843.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_145_8723718.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_422_5844160.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (80).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (3).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_80_118970.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_189_7952290.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_349_4722899.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_420_7951453.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (96).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (79).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_8_9145744.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_86_4761149.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_396_3322577.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_178_1527126.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_268_3711486.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_427_2618071.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_130_4105668.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_69_155154.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (55).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_271_2090164.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (126).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_196_8596330.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_369_9207834.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_254_6526090.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_61_4629594.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (130).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (14).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_25_2807764.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_229_4563530.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_41_5483387.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_19_1207588.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (43).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_224_8680551.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_311_3930129.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_3_1609100.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_307_1617022.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_5_3968307.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_288_7974161.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (34).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (110).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_259_2099901.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_371_1661275.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_382_9678486.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (63).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_223_3155934.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_77_7729869.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_31_7804740.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_282_8788320.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_335_5393555.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_100_4779108.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (75).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_34_9264683.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (22).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (106).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_341_7048115.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_152_318304.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (59).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_398_3578349.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_201_7031375.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_399_8123675.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_428_9880483.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_429_6843169.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_117_8265838.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_264_4742684.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_301_1548272.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_286_4590244.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (18).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_96_2737292.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_342_6064821.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_299_2931738.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_213_6383062.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_283_6528599.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_292_2550194.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_302_1994126.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_432_8082978.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_287_6543179.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_126_7103128.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_222_6535516.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_157_6351387.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_331_5969286.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_66_2296374.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (19).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_103_8617980.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_149_5126766.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_118_1536412.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_354_3530757.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_14_1917046.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_300_1441374.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (58).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_323_9698807.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_184_729573.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_119_7995215.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (107).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_200_9084431.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_332_958401.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_28_5622097.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (23).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_220_788346.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_310_1451015.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_381_624921.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (74).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_197_6398092.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_180_2851382.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_243_4075507.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_298_9773169.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_375_1343728.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_163_9769022.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (62).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (111).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_284_828651.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (35).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_246_9905507.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (42).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_219_3149350.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_35_8539105.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_312_5913810.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_26_22741.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (15).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_339_3312716.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_63_7426342.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_276_5800985.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (131).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_177_6199629.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_164_1514926.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_410_143839.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_39_6971062.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (127).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_392_189332.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (54).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_148_4880458.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_116_353472.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_447_578596.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_449_6266116.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_438_4450822.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_13_6982962.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (97).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (78).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_321_5605032.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_338_4375553.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_448_8971197.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (81).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_434_7360746.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (2).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_328_1849074.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_275_3881418.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_106_4120109.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_324_942563.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (39).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_304_2002178.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_295_2990041.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_386_6670814.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_10_1772154.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (32).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_221_4370693.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_104_8833739.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (116).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_109_4185389.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (9).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (65).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_105_587640.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_272_5950359.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_274_8057163.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_388_548865.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_404_8757078.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_88_1685051.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_45_3629119.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_378_9515912.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_202_9654234.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (73).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_18_4051629.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_385_2591784.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (24).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_144_3456929.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (100).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_365_2404108.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_327_7143086.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_394_6408604.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_191_4725367.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_232_8612035.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (49).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_134_1997758.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_79_7724476.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_29_8976200.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_367_2210891.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_82_1802959.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_294_41251.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_391_6299802.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_409_3997010.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_322_5831376.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_176_7162424.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (86).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (5).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_99_5875554.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_218_9880150.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (69).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_267_4118529.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_150_9553291.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_141_4841289.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_50_2273690.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_156_5061773.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (90).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_187_9499493.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_132_2103713.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_329_9495433.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_234_7410269.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_430_3221396.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_245_6913657.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (28).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_309_3968764.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_170_3373777.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_297_1393895.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_12_6104547.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (53).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_308_2519294.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_513_5146302.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_356_7337301.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_121_379200.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_169_2438210.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_617_1779630.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_286_6572197.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_574_2089326.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_551_7990839.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_796_8095922.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_777_9008268.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_180_4100922.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_629_4491260.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_746_2875662.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_194_657463.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_493_7622968.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_128_6301207.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_832_3140616.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_391_3408619.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (120).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_774_5823290.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_823_7805914.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_407_9927816.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_123_9676024.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_56_1740171.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_303_3510959.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_235_9654781.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_7_9508289.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_68_9711296.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_845_6155152.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_294_4057998.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_299_3309887.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_174_7520359.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_541_9770738.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_294_5142064.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_808_3539364.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_763_6505781.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_737_8095283.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_759_6095479.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_371_7801466.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_875_8976109.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_350_8452092.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_675_7274061.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_85_4469742.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_840_9483771.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_391_691566.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_418_9064306.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_151_1277309.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_557_3418402.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_790_1846702.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_372_6949552.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_484_1266137.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_91_3485682.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_348_3064168.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_36_248219.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_192_8838930.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_51_9632487.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_671_6587543.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_16_4823631.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_90_7963798.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_249_4198658.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_123_2830652.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_87_429586.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_875_9605990.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_178_9249152.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_373_6249885.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_223_6160672.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_567_9326492.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_397_8681168.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_81_3913905.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_854_685362.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_222_6307549.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_196_3098367.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_716_6696342.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_727_5161110.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_530_1610858.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_507_1981962.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_270_7961872.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_427_6087315.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_728_496193.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_76_6239606.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_244_2337440.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_752_7637407.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_115_2711402.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_77_8116770.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_730_7920578.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_779_5919979.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_815_1430967.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_442_7307692.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_891_25420.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (12).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_627_1320431.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_218_8902290.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_863_3270136.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_440_7738924.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_597_7481824.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_107_6784686.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_213_8352860.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_101_8850689.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_11_3171615.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_316_2280194.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_333_5457360.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_791_8155667.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_96_9491065.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_673_522164.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_858_4952494.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_318_6242088.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_669_8270722.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_806_8045721.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_815_1160800.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_327_8547281.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_95_2277479.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_678_5117780.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_117_3587471.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_229_6187516.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_758_7744843.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_816_9937591.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_870_8874243.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_863_5258905.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_814_5393885.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_283_41847.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_306_9969454.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_876_2889056.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_162_1393396.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (45).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_203_799202.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_815_2413146.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_58_9082901.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_138_9014781.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_833_8634013.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_759_6630856.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_830_5374471.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_427_4846957.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_654_6386034.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_653_5347485.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_808_3391460.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_604_1198811.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_405_1295244.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_843_475395.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_726_3130124.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (44).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_567_8078492.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_252_3266786.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_575_2048048.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_77_8651466.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_775_4552374.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_458_1415293.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_699_4316078.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_558_9817812.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_181_5284517.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_187_2356735.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_374_8367574.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_407_685906.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_504_9511834.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_96_7557617.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_261_2404022.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_802_1145912.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_383_1664054.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_721_4610762.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_702_7175504.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_48_7638162.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_27_115573.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_213_3727173.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_415_1564436.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_654_1449318.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_534_7277080.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_393_2288416.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_74_8503658.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_555_291879.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_146_2358845.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_226_3796831.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_511_7761345.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_51_6154284.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_521_3705314.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_788_5881471.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_368_2202188.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_361_717028.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_407_1184934.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_106_6675239.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_361_9862122.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_525_6051624.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_692_7084601.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (13).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_26_1491145.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_860_3894617.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_162_9767361.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_355_1071607.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_445_1081044.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_804_8605594.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_543_5384769.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_648_1282958.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_292_9020744.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_558_1075577.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_603_941903.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_586_9062537.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_364_6127251.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_373_7610631.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_739_7630163.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_264_3012374.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_436_4333746.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_783_2922773.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_462_73745.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_196_4315702.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_188_1654237.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_292_5674502.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_472_1307712.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_725_3898100.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_119_2580982.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_206_3097416.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_437_5297943.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_579_5570178.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_338_8041465.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_110_8567370.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_788_1812711.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_210_7097153.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_802_5827615.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_238_7487062.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_352_5969246.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_122_5203134.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_569_5171519.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_676_3506674.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_562_2180820.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_267_340957.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_59_8705976.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_595_1973360.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_558_9994689.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_810_151971.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_438_2300390.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_314_996318.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_854_6274820.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_891_9937320.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_64_8425129.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_412_2980275.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_260_8364221.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_599_7140116.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_387_5895060.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_36_1688695.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_525_848468.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_369_3311099.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_654_771908.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_452_9886542.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_305_2322586.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (121).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_248_3929620.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_199_3555839.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_866_708286.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_713_5984829.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_309_1399524.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_563_8888014.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_875_6360388.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_560_9002345.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_274_8884351.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_429_5899144.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_713_1737728.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_844_3462222.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_781_8542879.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_801_7122057.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_358_4474074.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (52).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_632_9784191.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_114_3364673.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_20_1833682.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_318_3562134.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_397_7423045.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_307_2835594.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_52_8715428.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_329_507832.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_560_1489576.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_535_9787693.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_28_4264624.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_702_8393723.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_443_139046.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_367_2745525.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_118_4259143.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_275_9941216.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_109_7984988.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_516_7108985.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_360_3349583.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_167_9046481.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_324_4622449.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_93_6842554.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_94_9701616.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_544_9645351.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_386_6554172.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_400_3880813.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_580_2383475.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_204_6292895.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_57_313773.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_269_6926347.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_104_1102091.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_633_6388002.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_553_1817592.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_56_2604059.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_237_4145037.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_426_1060542.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_584_4416248.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_652_2804611.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_553_3993940.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_392_9173703.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_59_6381109.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_158_8653551.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_275_2098720.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_57_8211287.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_494_7849529.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_102_8649172.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_803_4661080.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_60_4975028.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_308_4081364.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_469_4999927.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_773_9264172.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_821_6241055.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_283_8303847.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_219_1551912.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (29).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_457_2821064.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_498_285827.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_582_6061028.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_100_9435902.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_767_5473498.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_550_5248882.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_778_6581674.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_310_621262.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_551_7034710.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_451_4846065.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_65_5620126.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_565_8401386.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_271_797250.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_747_5251280.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_65_5555273.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_61_5332557.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_390_879290.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_260_1837204.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_351_548121.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_133_4987980.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (91).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_352_6435422.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_175_2817332.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (87).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (4).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_158_9977937.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_303_6661135.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (68).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_142_3610745.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_380_7823808.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_151_1176445.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_22_7800119.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_269_7210521.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_186_3375692.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_285_1057279.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_181_7378854.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_416_3326914.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_37_4082750.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (48).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_325_5576333.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_379_7100839.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_121_733270.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_182_2751877.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_258_4001567.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_280_1219587.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_138_9265448.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_81_9356369.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_270_9007759.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_18_2644445.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_263_7269325.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_190_370053.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_401_4114018.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_227_5518604.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_262_8333011.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_334_2109480.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_414_6402221.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (101).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_247_86266.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/Augmented_19_9334896.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_47_655634.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (25).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_167_5837706.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_165_6234580.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_330_5008960.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (72).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_357_5048208.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_423_7773610.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_38_172452.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_76_3720977.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (8).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_112_340997.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (64).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_46_4082313.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_231_1532436.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (117).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_15_6496409.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_384_8038713.png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/test (33).png	1
+/Users/karimabdallah/Desktop/data_sets/lwf/test/with_mask/augmented_89_9937539.png	1

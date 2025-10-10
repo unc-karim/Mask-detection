@@ -1,0 +1,1931 @@
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1510_2253884.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_261_6747101.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (565).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1555).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1154_8777526.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_802_5827615.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (633).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_763_9735164.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1530_3351067.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_454_5900366.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_371_271786.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (506).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_352_6720798.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1583_8162131.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_208_7980264.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_52_1045401.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1500_4163077.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_327_7143086.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (264).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (539).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_435_7191510.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_140_3040231.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_450_1586945.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_52_5630506.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1239).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_573_8355363.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_143_1676933.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (54).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_245_8328526.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (794).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1980_6418050.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg778.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_832_298718.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_388_7115521.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (14).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (232).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1494).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1370).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1091).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_549_7001605.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_194_3932832.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1060).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1343_9725435.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_31_177837.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (363).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (83).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/WhatsApp Image 2022-06-08 at 10.27.25 PM.jpeg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (198).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_194_657463.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (541).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_347_3920970.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image871.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (776).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask247.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_554_5326798.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1137_9181605.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_230_2759622.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_942_8219900.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1382_9930267.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,142.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_451_9523629.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_368_3474275.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_169_7443833.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (772).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (170).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_231_9156391.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1524_3023214.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_575_3497036.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1033).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_image_67.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1385_88727.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_272_5950359.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_411_8375089.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_670_8857143.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask319.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1514).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_460_752115.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1771_6866589.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (679).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,178.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1348).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (62).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_560_8077303.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (344).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1748_8011157.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1790_1184920.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1126_4332775.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (20).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1033_6194410.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_559_189455.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1063_8776865.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1081_9271431.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (15).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (472).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (37).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_385_6050242.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (103).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_60_268914.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (378).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1948_6109529.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_393_828049.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (738).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_177_5869579.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,194.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_923_931995.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (342).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image822 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image50.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (939).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_505_7087184.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1207_8045243.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (910).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_50_799220.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_475_6372533.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (307).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (7).jpeg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_196_3098367.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1201).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (89).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1515).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image40.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_278_1213403.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_875_6568259.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_image_208.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_421_1647212.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (78).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (431).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,205.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_888_3007680.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (603).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1035_3069258.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (380).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1165).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1509_6762205.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (203).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (245).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (527).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (437).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_75_2497634.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (271).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1133_5741373.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_714_7128858.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,113.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1442_9047692.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (635).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/2020-06-23-120048 (another copy).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (635).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_366_2208803.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_563_5326552.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1322).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (469).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask016.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1119_3445511.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (57).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1070_5304615.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_719_1262883.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1043_6482866.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1056).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_544_2620502.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1722_8218140.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_99_4930797.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (360).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_887_6954165.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (455).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1631_7556726.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,162.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (89).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1523_1260623.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_29_1738223.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1172_1488660.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image871 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_484_3313488.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1773_8592408.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_831_4874479.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1328_4129966.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask_24.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_120_9332968.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_555_7537251.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1057_945425.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1573_7764187.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask397.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_228_497187.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (660).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/OIP (9).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_341_3876394.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_654_771908.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (390).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask071.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (661).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (548).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1934_9175817.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_842_7832082.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_525_4858081.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_151_1277309.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_322_3805915.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask058.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/OIP (3).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_843_6731367.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (252).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,086.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image907.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_167_3215414.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (130).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1547_5626394.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1235_3542006.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1354).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_576_4133022.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (161).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1023).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,120.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (86).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1264_6474902.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_474_5373100.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1001).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1029_7654638.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (315).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1727_3924694.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (296).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_179_7022423.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (37).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_513_9676472.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (97).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_98_6300739.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_7_2553491.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (3).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (18).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1869_294053.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_51_4321291.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (74).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1350_6253966.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1814_3265966.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_621_3232035.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_546_2227098.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask328.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image831 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_736_5583282.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image32.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,157.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_70_8025783.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (269).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (43).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1115_7380614.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_911_9406196.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1550_2475382.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image879.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image856 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1512).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (717).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image754.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1078).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_131_6601096.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2069_7613979.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1993_8282704.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/black6.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (309).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (351).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2000_8985105.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_106_4732097.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_99_5875554.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (586).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (383).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (2).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (20).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_902_8225915.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (286).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image934.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1217).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (291).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (150).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_420_7621919.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image847 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_463_7743444.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2078_9541904.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (420).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2_8151314.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1062_4948171.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_26_5609403.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_104_8534954.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2082_85782.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1400_1774711.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (614).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (386).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_305_7206500.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1319_1602343.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,094.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (7).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (404).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1462).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_170_9403261.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_283_6528599.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (320).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_327_8080879.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask027.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_136_8471844.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_758_9929057.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_446_6635721.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1411).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_905_684777.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (63).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1456_9969702.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_597_7481824.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1375_9437872.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_894_9534964.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_426_9019190.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1414).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1574_8212552.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask276.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,254.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1349).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (258).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_936_5844515.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_2021_5847298.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask017.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_420_3824186.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (16).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (337).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_277_6725205.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_61_928845.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1429_4534874.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1233).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image922 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg755.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1849_384001.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_295_1278996.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (583).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1028_8049814.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (53).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,098.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (39).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1793_2933821.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image786.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1751_6050418.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_133_2608952.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1477).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1277_4152867.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (128).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_597_4206535.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1402_9324243.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1127).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (392).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_92_7081022.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask252.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_767_4413517.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask482.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1850_1770896.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1989_5492824.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (314).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image906.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_332_958401.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (252).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (865).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg920.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (84).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (457).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1071).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (114).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (464).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_419_1401022.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (76).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (473).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image988.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1397).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_48_5924731.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (667).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image933.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_599_3256300.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_337_8279075.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (4).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (130).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_151_3108457.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (338).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_28_5983816.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (513).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_389_8663467.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (3).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_493_124961.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2007_2577391.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image991.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1074_5708036.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_109_4185389.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1816_888530.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_286_6572197.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1309_7079239.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (529).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_114_3364673.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (482).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_177_1541178.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (408).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (252).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (715).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1077_9322048.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (485).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (21).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_491_5527806.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (261).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1642_4283544.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_630_4288653.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1285_8993096.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_540_3031054.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (742).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,077.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_81_9054318.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image909 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_295_3281200.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (716).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_623_8906506.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (276).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_369_3311099.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_227_2584244.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image768.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (211).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_833_8634013.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (131).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_328_2854005.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask211.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (31).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1181).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (5).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,216.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1965_376358.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask057.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_246_9220750.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1697_3791181.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2073_2762063.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1184_64286.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1192).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_432_9448825.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (228).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1743_2335687.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (407).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_424_2855508.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_985_549977.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1446).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1380_5947919.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/WhatsApp Image 2022-06-08 at 11.00.07 PM.jpeg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (202).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image983.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_243_2768096.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_603_941903.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_584_4570096.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_375_5168705.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1679_132019.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,101.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1490).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1239_4628681.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,103.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/download (1).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_206_621221.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_960_8107222.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_905_7847613.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_197_7477785.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1237).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1537_6397018.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask297.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_198_2647919.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1471).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_282_8788320.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_176_1543452.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (785).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (107).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1144_5566714.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask222.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (315).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_419_336422.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_439_2834656.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1047).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1174).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (551).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (31).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1427_7181955.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_718_4329965.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (301).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image725.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1812_5623156.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (452).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,025.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_5_3968307.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image17.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (40).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (692).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_438_2907712.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_489_4736365.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (85).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1142).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (95).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1308).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1644_5031080.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image47.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_68_3709851.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (416).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1155_3100133.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1525_7012091.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_694_9045927.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_74_7004732.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1299_3615042.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_539_3913255.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (40).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1341_4078076.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_167_6042310.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_493_7622968.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,157.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (269).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (252).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (251).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_850_8137050.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask477.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image945.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1506).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (186).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg788.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (425).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask257.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_846_2325661.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_235_3328057.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (29).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1340_5376403.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_219_3430310.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (504).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_207_3876743.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (718).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2070_1600816.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image49.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_201_5060699.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1641_6189166.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1600_4397830.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_453_7701192.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image872 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_412_7158538.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_514_3718121.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1019_5845282.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask454.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_74_1501192.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,202.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,151.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (96).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask019.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_251_753993.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (168).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_642_6877511.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (721).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask180.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_101_8850689.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image981.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1696_6267256.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (266).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (122).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1007_3217632.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg745.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (611).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_342_3200755.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_159_4968124.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_104_8833739.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_17_6740963.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_192_7993852.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_938_495626.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (760).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,053.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg947.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (595).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_182_89600.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_475_7939959.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (453).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image899 - Copy.jpeg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_468_5223248.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_480_144968.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1344_1873401.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_402_1785688.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (811).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,159.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg936.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_221_4756528.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask217.jpeg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_606_9813543.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1351).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_815_1430967.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1308_1833764.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (28).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_534_5988851.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (322).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_243_6806012.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask258.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (290).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (270).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg931.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_563_8888014.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (327).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (355).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (167).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,026.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_image_41.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask272.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_2025_8400349.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (325).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_937_1891436.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (73).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1612_1901460.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_246_8220027.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (304).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (417).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image807 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image881 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1118).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1515_4287506.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (84).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (734).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1703_9299909.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (305).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image885 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_301_8048856.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (146).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (418).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (34).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (89).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_990_2243526.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (842).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1702_5568186.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_439_9798275.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1946_628724.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1360).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_666_5889564.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_950_776390.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (191).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1423).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1109_2132783.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_372_4128065.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (1).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask080.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (238).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image42.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg930.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_664_272080.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1876_4365698.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_731_2148114.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,224.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (182).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_359_148769.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_627_7804088.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask594.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (788).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_665_2019034.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (257).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1069).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1897_9692052.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (409).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (726).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (808).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/WhatsApp Image 2022-06-08 at 10.16.45 PM (1).jpeg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_336_8381102.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_827_7081597.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (924).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (337).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_392_7642397.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_80_9177592.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_159_9691829.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (294).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_974_3677609.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2012_6547233.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask192.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1887_7965261.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_163_545436.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1115).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_202_2387558.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_875_6360388.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (670).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_571_359615.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1177_1349238.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,128.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (100).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_453_5593494.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1108_8350342.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_278_3478018.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (588).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1323).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image918 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_94_5658296.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image18.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1152_7252363.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_803_4661080.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_53_1617046.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1421_7821022.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (323).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1267_1777158.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1667_5415192.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image894.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (566).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (329).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (122).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (408).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (150).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (10).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1191).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (196).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_375_6350724.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1163).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1942_7822481.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,167.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_406_7742229.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_303_4228791.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1699_979148.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (231).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_423_1364622.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (358).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (284).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (213).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1159).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_479_3230603.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_image_14.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1827_114665.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2009_155208.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,204.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1474_8379327.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1718_4940415.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1993_9484524.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1505_3094779.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1610_3082582.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/WhatsApp Image 2022-06-10 at 10.34.55 AM.jpeg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1399).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_577_3707715.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_978_4901760.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (253).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_775_7222987.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg783.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1360_3841265.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (478).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (321).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_572_9562907.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (85).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1543_6352524.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_335_2515257.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1175).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (16).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1831_8223139.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1850_3270374.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (971).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1565_837898.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask316.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (501).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1433_870851.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1532_4977136.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (878).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_134_1783885.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1347).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_621_1008761.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (470).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_74_8503658.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_898_6889155.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_102_261288.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_376_9636224.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_133_8168020.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_160_8223108.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1142_6179125.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,225.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (75).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_111_9398920.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (294).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (12).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_206_9658789.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (384).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,110.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1338).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_394_8346467.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1255_8029135.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (208).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_457_2821064.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (17).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image726.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1188_625511.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (119).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_355_1071607.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (767).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_241_3816114.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image863.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_962_5555068.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_521_3164592.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (259).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (172).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_287_6163576.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (623).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_542_7589537.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/WhatsApp Image 2022-06-08 at 10.21.57 PM.jpeg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_214_2625320.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,076.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1314_6354310.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1016_9912245.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (156).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image825 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image966.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_27_3932043.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_100_8713322.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_162_7614136.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1360_1431708.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask055.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_457_7301059.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (100).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg972.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_393_7732376.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_71_2295173.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_251_3269333.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_392_189332.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (212).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (32).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1206_4094911.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1171_3605105.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1516).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (599).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (684).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_252_1725938.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1188).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (965).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_48_2854090.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_659_1792071.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_280_5929166.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_283_41847.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (429).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_519_9007561.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_811_7431096.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (145).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_543_3296984.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1700_3747213.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (362).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (35).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,038.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_93_5283740.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask081.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_233_6053040.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1236_8036182.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_513_4963111.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1356_7058364.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_23_5055156.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (92).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_155_45424.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/WhatsApp Image 2022-06-08 at 10.21.21 PM.jpeg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (19).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image885.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (539).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (262).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_340_2837397.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_253_7955897.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1340).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_654_5949250.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_460_1092528.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_404_9460324.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (320).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (109).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (68).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1432_3710655.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1107_1184734.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_904_1848419.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_119_5134827.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (205).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (51).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1939_6754902.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/WhatsApp Image 2022-06-10 at 10.34.51 AM (1).jpeg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_77_7191730.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (496).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,220.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1128).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1252_7689524.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image930.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_392_6626776.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_772_7621485.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (368).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image874 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/WhatsApp Image 2022-06-09 at 1.44.07 PM (1).jpeg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_168_6847861.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_383_9926147.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1072).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/WhatsApp Image 2022-06-08 at 10.16.18 PM.jpeg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1197_7912313.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (48).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (297).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1111_1376578.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask335.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_983_2599374.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (201).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask059.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (243).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_425_6888742.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (277).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (682).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_928_5959743.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1132).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (45).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1881_9422830.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_423_8241890.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (795).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (63).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2036_1749829.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_421_9691784.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (359).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg955.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_788_1812711.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1095).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (642).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (64).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1166).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1388_7887166.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (33).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (639).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_10_3347522.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1626_1338991.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (38).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (798).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,209.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (365).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1625_5278242.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_304_9997458.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,092.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (286).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask309.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_504_1538188.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1422).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (580).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2052_4095293.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,052.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_271_797250.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (223).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (132).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_508_2708043.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_247_6783332.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (405).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (450).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1401_1633787.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_362_3790813.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_236_1730277.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_135_3214444.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_341_2490.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (19).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_294_5715753.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (345).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,158.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (434).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1517).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (335).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_388_548865.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_2012_4921592.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_image_66.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (481).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask102.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (509).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1553_4627355.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1587_6258468.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (525).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (144).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (386).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_397_8681168.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (300).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1117_8814179.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask010.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_110_8753625.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (196).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_24_6486426.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_355_3266474.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_306_4790970.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,118.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (209).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_692_7084601.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (499).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1883_5568666.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_749_1540199.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_342_714809.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (977).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_44_2911553.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (123).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask391.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_884_2805799.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (730).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_193_835691.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_500_7749433.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_117_7110576.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (481).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_895_1498657.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (63).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,171.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (960).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_103_6671205.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1225_9647358.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_436_4333746.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_443_4257444.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (20).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_2001_6158038.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1675_7343757.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1903_6581329.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image852 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,097.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (398).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1634_4421115.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1398_409501.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1128_1950701.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (159).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_706_4243573.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,051.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg980.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1234).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask458.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_185_1217805.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (1).jpeg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1000).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (3).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_219_6867779.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1565_664135.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_211_3025781.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1163_3352041.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask582.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_107_9177525.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_256_1971452.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1782_4338790.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1442).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (454).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_881_1776175.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask172.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/OIP (4).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_164_5894995.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (18).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_66_5617573.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1966_4298363.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_443_4777742.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_807_6396924.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_856_8782427.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (412).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_452_4631370.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_228_14057.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (361).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (47).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (56).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (690).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_835_6248868.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (271).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image716.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (350).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (183).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image911.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,167.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (354).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1549).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_565_8561550.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_210_8502495.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_717_2653965.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (13).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_433_2411180.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1281_8552448.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_671_6587543.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (154).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,180.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (385).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_726_3130124.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image946.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_629_5720961.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (493).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_29_9211070.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (150).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,219.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_540_4924279.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (225).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1198_9094870.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (755).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_299_5240882.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (326).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (538).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask077.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1227).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (806).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (530).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_441_6475804.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_939_1011018.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image869.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1444).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1639_7710655.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (226).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_41_4065685.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (69).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_98_6780388.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1132_8249327.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (62).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_944_860588.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1337).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (653).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (58).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (695).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1088_8232619.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_872_3964812.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1944_4339377.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_58_6534960.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Screenshot (403).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_25_7213513.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,134.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_628_5618463.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1963_9596108.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (239).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (403).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (428).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/with_mask291.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1608_8212153.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1221).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_155_6176335.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1_5648002.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_416_5774255.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (190).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,026.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1276).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg1,204.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1735_8040939.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_186_3400992.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (163).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1954_2795997.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_102_3771662.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image713.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (103).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_447_556363.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_62_3958951.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_375_1836204.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (248).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_909_5419790.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1601_6770545.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (854).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,066.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (802).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (249).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_68_9589260.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image925.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/testwo (91).png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_249_3087933.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_139_9618583.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (895).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_387_3222890.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image855.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1575_9827251.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_344_7851463.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_461_4708366.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1424).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1296).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_362_226937.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (546).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/v (11).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (737).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image931 - Copy.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1447_8785100.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_919_1295277.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1076_5597773.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1148).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_997_9644405.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_675_5084787.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Mask35.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_585_8421008.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_525_1537603.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image882.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (169).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (240).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image1,096.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (688).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_286_2060442.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/Faceimg780.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_142_3610745.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_462_7469525.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_1358_7778852.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_213_7731003.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/vlwo (369).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (116).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1902_3526635.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image995.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/image841.jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (352).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_690_7453485.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/trn (69).jpg	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1937_560413.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_image_79.jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (1504).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/augmented_402_6649303.png	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (21).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (393).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/test (93).png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/without_mask/tranwo (764).jpg	0
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/Augmented_498_285827.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_1675_6839696.png	1
+/Users/karimabdallah/Desktop/data_sets/Facemaskdetection/train/with_mask/augmented_365_2404108.png	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1351.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3489.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1356.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3381.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_522.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2928.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2392.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2668.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2048.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_860.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3577.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2541.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2793.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_138.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1333.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_892.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2629.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1722.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2799.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_57.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1614.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_330.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3362.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1505.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_74.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1351.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_390.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1578.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1475.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_30.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2601.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2489.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1931.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3344.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2268.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3251.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_5.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2537.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2310.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_247.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2312.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2256.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2469.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2800.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2229.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2206.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2461.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1588.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2049.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1091.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1478.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_165.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3064.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_46.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1723.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3162.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2673.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1357.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_332.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2867.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1061.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_65.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1122.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2827.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_624.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1558.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3371.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3121.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2018.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_840.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3528.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_23.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1850.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1828.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2604.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1150.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1558.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_469.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3169.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2840.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_57.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3020.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1198.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1521.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1133.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1958.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1810.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3678.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_693.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1477.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_709.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1630.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1518.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_38.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3512.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2125.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1025.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3613.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_199.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_233.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1375.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_286.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3024.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_167.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_401.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1966.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2307.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_429.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_490.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1090.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1644.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3811.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_789.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2826.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_461.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3310.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2605.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3194.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3005.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3567.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_632.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_389.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_907.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3478.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3485.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_851.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_78.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2277.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3722.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3209.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2383.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3683.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1584.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1643.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2344.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1256.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3227.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_17.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1973.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_37.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2983.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2564.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_497.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_772.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_173.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_505.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_372.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3790.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3063.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_129.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2167.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_803.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2068.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1776.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3268.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1424.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2503.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3305.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_94.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2498.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_896.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_204.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1683.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3119.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3060.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_822.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3302.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1762.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1769.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_412.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3052.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2472.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2944.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1129.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1543.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2981.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2762.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1895.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_745.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1265.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2596.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3693.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_340.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_58.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1090.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1434.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1602.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2052.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2275.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_348.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1005.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1597.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_271.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1241.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2418.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2250.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3375.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3352.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3690.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2701.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2494.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3058.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2139.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_976.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2867.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1388.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_558.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1371.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_282.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_458.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2104.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1359.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3435.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_813.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2278.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3611.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2553.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_956.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_797.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1125.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1531.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2012.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_534.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3419.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1843.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1338.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1746.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2534.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2310.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3255.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2346.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2670.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1133.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1970.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2277.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3510.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_938.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3583.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3565.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1281.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_661.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_103.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3568.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_842.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_725.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_199.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2515.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_156.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1338.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_864.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1302.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1887.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1719.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1568.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2834.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2804.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_252.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1731.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_217.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1538.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2222.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3775.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2464.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3054.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3455.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_151.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_559.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_29.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3536.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2353.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_498.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1230.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2630.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_769.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2063.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_259.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_414.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2058.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_131.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3210.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1654.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2903.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3188.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2585.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3793.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_364.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1643.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3239.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_943.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3273.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_378.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2864.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2165.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2039.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_665.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1486.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2664.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_135.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3013.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2675.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2433.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2258.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_402.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_295.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1604.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1085.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3047.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_618.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2453.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3429.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2201.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2261.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2177.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2887.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_577.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1903.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2294.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_644.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3115.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3742.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_64.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_34.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3586.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3295.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1143.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2476.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1027.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2600.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1845.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3816.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3242.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_127.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_879.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1410.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3586.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1749.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_983.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1250.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1710.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1999.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1443.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1443.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_837.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3585.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3490.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_656.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1088.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2133.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3595.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1980.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1131.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_127.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3576.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_442.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1933.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1832.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3038.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_238.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2388.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2115.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1281.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_34.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2842.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3235.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1638.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2995.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2968.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_927.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3508.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1422.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_875.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1079.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1663.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3142.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_341.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_763.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2027.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2811.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2518.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2461.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3431.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3654.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1603.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_345.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1857.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_77.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2933.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1229.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2952.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_511.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2747.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_567.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_73.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_376.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_300.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2282.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1548.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2547.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_256.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3351.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3534.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2107.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1857.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1598.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_990.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2060.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1523.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2975.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3380.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_910.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_603.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1790.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3728.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3621.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_734.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3452.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2895.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2444.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_809.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1010.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_122.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1175.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_268.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_97.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2122.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1611.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2752.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2852.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1202.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3712.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1606.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2264.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3588.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2710.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1930.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_149.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1110.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1525.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3032.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2522.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2992.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2729.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1642.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2941.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_600.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1814.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_210.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1737.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2344.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1237.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1120.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3716.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2890.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2168.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_941.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3496.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_898.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3725.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_364.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2010.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_315.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2563.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_117.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1884.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3439.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_613.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3459.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1982.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_459.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2400.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2007.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1386.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1179.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2987.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3385.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1530.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2535.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2695.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1081.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_714.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2557.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1414.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_222.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1872.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1078.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_628.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3647.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3442.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2232.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_735.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2380.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_509.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_811.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_446.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1273.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1408.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1553.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3511.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1105.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_197.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1098.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1026.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2267.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1020.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2243.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3296.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3526.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3009.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_799.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_432.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1233.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3448.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1217.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1220.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3465.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_405.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3183.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_588.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1013.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_448.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_288.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_192.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_575.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2882.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3185.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2957.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_427.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2332.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3139.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_499.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_390.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1273.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_281.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_395.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3536.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1708.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1320.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1791.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1639.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2212.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2759.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2036.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_80.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3299.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2173.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_609.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1844.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2254.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2272.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3160.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3143.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_251.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1910.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2789.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_314.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3361.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1541.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3494.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3655.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_55.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_595.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1506.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3441.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2568.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2269.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1425.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1278.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2080.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1132.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2062.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2707.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_59.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1038.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2439.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2486.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2852.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1997.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1469.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_388.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_459.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1194.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_516.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2802.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_8.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1538.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3091.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1512.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3493.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1599.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_585.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1502.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3370.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3616.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_87.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_362.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2637.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1274.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1125.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1106.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1334.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1929.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1391.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2694.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_507.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3453.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_878.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3470.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_255.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_279.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2263.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2929.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_991.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1758.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3663.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3119.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2259.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_321.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_454.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_90.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2085.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_201.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2627.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2569.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1742.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2969.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3216.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1919.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1799.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1823.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1282.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3724.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1861.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_435.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3080.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_367.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1348.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3717.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_615.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_351.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2679.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2193.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2008.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3208.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2920.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_414.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_392.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1796.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3011.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_205.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1629.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3098.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1359.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_861.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_591.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2383.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2562.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1451.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_831.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1811.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1488.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_386.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1004.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_142.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1945.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3396.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_894.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_971.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_747.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_844.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3528.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2760.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1322.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_756.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1773.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1235.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1275.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3034.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2392.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2486.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_983.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3053.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2001.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_145.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1064.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_689.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_92.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_963.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_16.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1143.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2044.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1494.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2627.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_224.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3746.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_287.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3548.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1366.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1937.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2239.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3324.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2069.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3540.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_227.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_826.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_625.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1448.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3029.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1782.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2945.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2291.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1416.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1669.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3644.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2154.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2220.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1815.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1264.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_218.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3553.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1083.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3434.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3737.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_327.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_631.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3256.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3569.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1986.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3546.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1463.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1458.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1354.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2068.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_896.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2178.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_889.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_60.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1372.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1491.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1509.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1822.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_266.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1641.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2748.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_3018.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_1408.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2587.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1820.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_470.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2559.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1358.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3328.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1240.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_2725.jpg	0
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_2937.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/with_mask/with_mask_3360.jpg	1
+/Users/karimabdallah/Desktop/data_sets/kaggle/without_mask/without_mask_1454.jpg	0
