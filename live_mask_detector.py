@@ -163,6 +163,9 @@ def run_webcam(model_path: Path, splits_dir: Path, camera_index: int, use_gpu: b
                 print("Failed to read frame from camera. Exiting.")
                 break
 
+            # Correct webcam mirror effect so the on-screen preview matches real-world orientation.
+            frame = cv2.flip(frame, 1)
+
             gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
             faces = face_detector.detectMultiScale(
                 gray,
