@@ -3,19 +3,7 @@ from __future__ import annotations
 import argparse
 import sys
 from pathlib import Path
-from typing import Tuple
-
-try:
-    import cv2
-except ImportError as exc:  # pragma: no cover - dependency guard
-    raise SystemExit(
-        "OpenCV (cv2) is required. Install it via 'pip install opencv-python'."
-    ) from exc
-
-try:
-    import joblib
-except ImportError as exc:  # pragma: no cover - dependency guard
-    raise SystemExit("joblib is required. Install it via 'pip install joblib'.") from exc
+from typing import Tuple, Optional
 
 import numpy as np
 import torch
@@ -24,128 +12,110 @@ from PIL import Image
 from torchvision import models
 
 try:
-    from sklearn.pipeline import Pipeline
-    from sklearn.preprocessing import StandardScaler
-    from sklearn.svm import LinearSVC
-except ImportError as exc:  # pragma: no cover - dependency guard
-    raise SystemExit(
-        "scikit-learn is required. Install it via 'pip install scikit-learn'."
-    ) from exc
+    import cv2
+except ImportError as exc:
+    raise SystemExit("OpenCV (cv2) is required. Install it via 'pip install opencv-python'.") from exc
+
+try:
+    import joblib
+except ImportError as exc:
+    raise SystemExit("joblib is required. Install it via 'pip install joblib'.") from exc
 
 
-def build_transform() -> T.Compose:
-    """Return the evaluation transform used during feature extraction."""
-    mean = [0.485, 0.456, 0.406]
-    std = [0.229, 0.224, 0.225]
-    return T.Compose(
-        [
-            T.Resize(256),
-            T.CenterCrop(224),
-            T.ToTensor(),
-            T.Normalize(mean, std),
-        ]
-    )
+# ---------------------------
+# Pure inference transforms
+# ---------------------------
+def build_transform(mean=None, std=None, size: int = 224):
+    mean = mean or [0.485, 0.456, 0.406]
+    std = std or [0.229, 0.224, 0.225]
+    return T.Compose([T.Resize(256), T.CenterCrop(size), T.ToTensor(), T.Normalize(mean, std)])
 
 
-def load_feature_extractor(device: torch.device) -> torch.nn.Module:
+# ---------------------------
+# Load fixed backbone (no training)
+# ---------------------------
+def load_feature_extractor(device: torch.device, backbone_path: Optional[Path] = None):
     """
-    Load a ResNet50 backbone with the classification head removed so we can
-    reuse it as a feature extractor.
+    Load a ResNet50 feature extractor strictly for inference.
+    If `backbone_path` is provided, load state_dict from that file (exported in the notebook).
+    Otherwise, use torchvision's fixed ImageNet weights (no training).
     """
-    resnet = models.resnet50(weights=models.ResNet50_Weights.IMAGENET1K_V2)
+    resnet = models.resnet50(weights=None if backbone_path else models.ResNet50_Weights.IMAGENET1K_V2)
     resnet.fc = torch.nn.Identity()
-    resnet.eval()
-    resnet.to(device)
+    resnet.eval().to(device)
+
+    if backbone_path:
+        if not backbone_path.exists():
+            raise FileNotFoundError(f"Backbone weights not found at {backbone_path}")
+        state = torch.load(backbone_path, map_location=device)
+        # Support either a plain state_dict or {'state_dict': ...}
+        state_dict = state.get("state_dict", state) if isinstance(state, dict) else state
+        resnet.load_state_dict(state_dict, strict=True)
+
+    for p in resnet.parameters():
+        p.requires_grad_(False)
     return resnet
 
 
-def prepare_face(
-    frame: np.ndarray, bbox: Tuple[int, int, int, int], transform: T.Compose
-) -> torch.Tensor:
-    """Crop, convert and transform a detected face ROI."""
+# ---------------------------
+# Load fixed classifier (no training)
+# ---------------------------
+def load_classifier(model_path: Path):
+    """
+    Load a trained classifier/pipeline that was exported from a separate notebook.
+    Accepts either:
+      - a scikit-learn Pipeline, or
+      - a dict containing {'pipeline', 'classes', 'transform', 'feature_dim', ...}
+    """
+    try:
+        import sklearn  # noqa: F401
+    except ImportError as exc:
+        raise SystemExit("scikit-learn is required to load the trained pipeline. Install 'scikit-learn'.") from exc
+
+    if not model_path.exists():
+        raise FileNotFoundError(
+            f"Model not found at {model_path}. Export your trained model from the notebook "
+            "(e.g., joblib.dump({'pipeline': pipe, ...}, 'models/mask_svm.joblib'))."
+        )
+    obj = joblib.load(model_path)
+    if isinstance(obj, dict) and "pipeline" in obj:
+        return obj
+    # Wrap raw pipeline with sensible defaults
+    return {"pipeline": obj, "classes": {0: "No Mask", 1: "Mask"}, "transform": {"mean": [0.485,0.456,0.406], "std":[0.229,0.224,0.225], "size":224}}
+
+
+# ---------------------------
+# Pre/Post utils
+# ---------------------------
+def prepare_face(frame: np.ndarray, bbox: Tuple[int, int, int, int], transform: T.Compose):
     x, y, w, h = bbox
     face = frame[y : y + h, x : x + w]
     if face.size == 0:
         raise ValueError("Empty face crop encountered.")
-
     face_rgb = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)
     pil_img = Image.fromarray(face_rgb)
-    tensor = transform(pil_img).unsqueeze(0)
-    return tensor
+    return transform(pil_img).unsqueeze(0)
 
-
-def annotate_frame(
-    frame: np.ndarray, bbox: Tuple[int, int, int, int], label: str, confidence: float
-) -> None:
-    """Draw bounding box and prediction label on the frame in-place."""
+def annotate_frame(frame: np.ndarray, bbox: Tuple[int, int, int, int], label: str, confidence: float):
     x, y, w, h = bbox
-    color = (0, 200, 0) if label == "Mask" else (0, 0, 255)
+    color = (0, 200, 0) if label.lower().startswith("mask") else (0, 0, 255)
     cv2.rectangle(frame, (x, y), (x + w, y + h), color, 2)
     text = f"{label} ({confidence:.2f})"
-    cv2.putText(
-        frame,
-        text,
-        (x, max(20, y - 10)),
-        cv2.FONT_HERSHEY_SIMPLEX,
-        0.6,
-        color,
-        2,
-        cv2.LINE_AA,
-    )
+    cv2.putText(frame, text, (x, max(20, y - 10)), cv2.FONT_HERSHEY_SIMPLEX, 0.6, color, 2, cv2.LINE_AA)
 
 
-def load_or_train_classifier(model_path: Path, splits_dir: Path) -> Pipeline:
-    """
-    Load a serialized classifier if available, otherwise train one from the
-    saved feature splits and persist it to model_path.
-    """
-    if model_path.exists():
-        print(f"[info] Loading classifier: {model_path}")
-        return joblib.load(model_path)
-
-    expected_files = {
-        "train": splits_dir / "DS3_train.npz",
-        "val": splits_dir / "DS3_val.npz",
-    }
-    missing = [name for name, p in expected_files.items() if not p.exists()]
-    if missing:
-        hint = ", ".join(missing)
-        raise FileNotFoundError(
-            f"Missing required feature files in {splits_dir}: {hint}. "
-            "Generate them by running the feature extraction notebook or pass "
-            "an explicit --model-path to a trained classifier."
-        )
-
-    def load_npz(path: Path) -> Tuple[np.ndarray, np.ndarray]:
-        data = np.load(path, allow_pickle=False)
-        return data["X"], data["y"]
-
-    X_train, y_train = load_npz(expected_files["train"])
-    X_val, y_val = load_npz(expected_files["val"])
-    X_pool = np.concatenate([X_train, X_val], axis=0)
-    y_pool = np.concatenate([y_train, y_val], axis=0)
-
-    print(f"[info] Training LinearSVC on pooled features ({X_pool.shape[0]} samples).")
-    pipeline = Pipeline(
-        [
-            ("scaler", StandardScaler()),
-            ("svm", LinearSVC(dual=False, C=1.0, class_weight="balanced", max_iter=10000)),
-        ]
-    )
-    pipeline.fit(X_pool, y_pool)
-
-    model_path.parent.mkdir(parents=True, exist_ok=True)
-    joblib.dump(pipeline, model_path)
-    print(f"[info] Saved classifier to {model_path}")
-    return pipeline
-
-
-def run_webcam(model_path: Path, splits_dir: Path, camera_index: int, use_gpu: bool) -> None:
-    clf = load_or_train_classifier(model_path, splits_dir)
+# ---------------------------
+# Main loop (inference only)
+# ---------------------------
+def run_webcam(model_path: Path, camera_index: int, use_gpu: bool, backbone_path: Optional[Path]):
+    export = load_classifier(model_path)
+    clf = export["pipeline"]
+    classes = export.get("classes", {0: "No Mask", 1: "Mask"})
+    tmeta = export.get("transform", {"mean": [0.485, 0.456, 0.406], "std": [0.229, 0.224, 0.225], "size": 224})
 
     device = torch.device("cuda") if use_gpu and torch.cuda.is_available() else torch.device("cpu")
-    feature_extractor = load_feature_extractor(device)
-    transform = build_transform()
+    feature_extractor = load_feature_extractor(device, backbone_path=backbone_path)
+    transform = build_transform(tmeta.get("mean"), tmeta.get("std"), tmeta.get("size", 224))
 
     cascade_path = Path(cv2.data.haarcascades) / "haarcascade_frontalface_default.xml"
     face_detector = cv2.CascadeClassifier(str(cascade_path))
@@ -158,41 +128,41 @@ def run_webcam(model_path: Path, splits_dir: Path, camera_index: int, use_gpu: b
 
     try:
         while True:
-            ret, frame = cap.read()
-            if not ret:
+            ok, frame = cap.read()
+            if not ok:
                 print("Failed to read frame from camera. Exiting.")
                 break
 
-            # Correct webcam mirror effect so the on-screen preview matches real-world orientation.
             frame = cv2.flip(frame, 1)
-
             gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-            faces = face_detector.detectMultiScale(
-                gray,
-                scaleFactor=1.1,
-                minNeighbors=5,
-                minSize=(80, 80),
-            )
+            faces = face_detector.detectMultiScale(gray, scaleFactor=1.1, minNeighbors=5, minSize=(80, 80))
 
             for (x, y, w, h) in faces:
                 try:
                     face_tensor = prepare_face(frame, (x, y, w, h), transform).to(device)
                     with torch.no_grad():
-                        feat = feature_extractor(face_tensor).cpu().numpy()
+                        feat = feature_extractor(face_tensor).cpu().numpy()  # shape (1, 2048)
+
                     pred = clf.predict(feat)[0]
-                    decision = clf.decision_function(feat)
-                    if decision.ndim == 1:
-                        confidence = float(abs(decision[0]))
+
+                    # Prefer calibrated probabilities; fallback to decision margins; else 0.5
+                    if hasattr(clf, "predict_proba"):
+                        proba = clf.predict_proba(feat)[0]
+                        conf = float(np.max(proba))
+                    elif hasattr(clf, "decision_function"):
+                        dec = clf.decision_function(feat)
+                        conf = float(abs(dec[0])) if dec.ndim == 1 else float(np.max(dec[0]))
                     else:
-                        confidence = float(max(decision[0]))
-                    label = "Mask" if int(pred) == 1 else "No Mask"
-                    annotate_frame(frame, (x, y, w, h), label, confidence)
+                        conf = 0.5
+
+                    label = classes.get(int(pred), str(int(pred)))
+                    annotate_frame(frame, (x, y, w, h), label, conf)
+
                 except Exception as err:
-                    # Skip problematic detections but keep the loop running.
                     print(f"[warn] Skipping face: {err}", file=sys.stderr)
                     continue
 
-            cv2.imshow("Mask Detector", frame)
+            cv2.imshow("Mask Detector (inference-only)", frame)
             key = cv2.waitKey(1) & 0xFF
             if key in (27, ord("q")):
                 break
@@ -200,40 +170,22 @@ def run_webcam(model_path: Path, splits_dir: Path, camera_index: int, use_gpu: b
         cap.release()
         cv2.destroyAllWindows()
 
-
-def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Run real-time mask detection on the webcam feed.")
+def parse_args():
+    parser = argparse.ArgumentParser(description="Run real-time mask detection using pre-trained artifacts only.")
     default_model = Path(__file__).with_name("models") / "mask_svm.joblib"
-    parser.add_argument(
-        "--model-path",
-        type=Path,
-        default=default_model,
-        help=f"Path to the saved LinearSVC pipeline (.joblib). (default: {default_model})",
-    )
-    parser.add_argument(
-        "--camera-index",
-        type=int,
-        default=0,
-        help="OpenCV camera index (default: 0).",
-    )
-    default_splits = Path(__file__).resolve().parent / "data" / "splits"
-    parser.add_argument(
-        "--splits-dir",
-        type=Path,
-        default=default_splits,
-        help=f"Directory containing DS3_train.npz/DS3_val.npz (default: {default_splits}).",
-    )
-    parser.add_argument(
-        "--cpu",
-        action="store_true",
-        help="Force CPU inference even if CUDA is available.",
-    )
+    parser.add_argument("--model-path", type=Path, default=default_model,
+                        help=f"Path to exported classifier (.joblib). Default: {default_model}")
+    parser.add_argument("--backbone-path", type=Path, default=None,
+                        help="Optional path to exported ResNet50 state_dict (.pt) from the notebook. If omitted, "
+                             "uses torchvision ImageNet weights (still inference-only).")
+    parser.add_argument("--camera-index", type=int, default=0, help="OpenCV camera index (default: 0).")
+    parser.add_argument("--cpu", action="store_true", help="Force CPU even if CUDA is available.")
     return parser.parse_args()
 
 
-def main() -> None:
+def main():
     args = parse_args()
-    run_webcam(args.model_path, args.splits_dir, args.camera_index, use_gpu=not args.cpu)
+    run_webcam(args.model_path, args.camera_index, use_gpu=not args.cpu, backbone_path=args.backbone_path)
 
 
 if __name__ == "__main__":
